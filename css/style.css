@@ -1,0 +1,99 @@
+#hero{
+	background-image: url("../img/header_bg.jpg");
+	padding: 8%;
+}
+header{
+	background-color:#3c3838;
+}
+h1{
+	font-size: 60px;
+	color: #FFFFFF;
+}
+.ab-us{
+	color: #FFFFFF;
+	font-size: 20px;
+}
+.titulos-pagina{
+	color:#3c3838;
+	font-size: 60px;
+	padding-bottom: 5%;
+}
+.btn-welcome{
+	background-color: #19adf4;
+	color:#FFFFFF;
+	padding: 5% 8%;
+	border-radius: 100px;
+	margin: 25%;
+	font-size: 100%;
+	
+}
+.info-right-welcome{
+	text-align: -webkit-right;
+}
+.subtitle{
+	color:#888585;
+	font-weight: 600;
+	padding-top: 8%;
+	padding-bottom: 1%;
+}
+
+.number{
+	font-size: 320%;
+	color: #e6e8eb;
+}
+.title-welcome{
+	font-size: 100%;
+	font-weight: 700;
+}
+.txt-welcome{
+	color: #888585;
+	font-size: 80%;
+}
+
+.txt-how-was{
+	color: #888585;
+	font-size: 95%;
+}
+#coaches{
+	background-color: #f3f3f3;
+}
+.gris-act{
+	color:#888585;
+	font-weight:600;
+	padding-bottom: 10%;
+}
+
+.coach-name{
+	color: #3c3838;
+	font-size: 120%;
+	font-weight:700;
+	padding-top: 8%;
+}
+
+footer{
+	background-color: #383737;
+}
+.redes{
+	padding-top: 5%;
+	font-size: 120%;
+}
+.txt-copy{
+	color: #FFFFFF;
+	font-size: 75%;
+	padding: 5% 0%;
+}
+.foto{
+	padding-bottom: 8%;
+}
+#gallery{
+	background-color: #f3f3f3;
+}
+.titulos-galeria{
+	padding-top: 5%;
+}
+#how-was{
+	background-color: #FFFFFF;
+}
+.foto-how{
+	background: 
+}
